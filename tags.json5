@@ -15,8 +15,8 @@
   ],
 
   "HOLDING ACCOUNT": [
-    ["iana",484],          // *HTTP holding account.
-    ["shtc_holding",3940], // *SHTC holding account.
+    ["iana",484],            // *HTTP holding account.
+    ["stdoil_holding",3940], // *STDOIL holding account.
   ],
   
   "BANK": [

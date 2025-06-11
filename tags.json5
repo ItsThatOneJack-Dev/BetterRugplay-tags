@@ -1,0 +1,21 @@
+{
+  "BRP DEVELOPER": [
+    ["itoj",300]
+  ],
+  
+  "MALICIOUS": [
+    ["cz_binance",177],
+    ["adblocker",1600],
+    ["hn1f",2937],
+    ["ahmed",3963],
+    ["bluey",722],
+    ["trump",662],
+    ["nosok",3549],        // BANNED
+    ["gui",204]
+  ],
+
+  "HOLDING ACCOUNT": [
+    ["iana",484],          // *HTTP holding account.
+    ["shtc_holding",3940], // *SHTC holding account.
+  ]
+}

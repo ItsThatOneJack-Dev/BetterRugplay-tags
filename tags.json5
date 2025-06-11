@@ -17,5 +17,14 @@
   "HOLDING ACCOUNT": [
     ["iana",484],          // *HTTP holding account.
     ["shtc_holding",3940], // *SHTC holding account.
+  ],
+  
+  "BANK": [
+    ["bank",1130],
+    ["rugplayofficialbank",490]
+  ]
+  
+  "RUGPULLING MEANIE": [
+    ["linker",2]
   ]
 }

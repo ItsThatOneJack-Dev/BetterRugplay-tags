@@ -1,5 +1,12 @@
 {
   "banned_users": [
+    {
+      "target_id": 999999999,
+      "reporter_id": 0,
+      "reason": "IntegrationTest",
+      "date_added": "2025-06-13T00:23:13.944Z",
+      "report_id": "0ce0b7a1f980cd74"
+    }
   ],
-  "last_updated": "2025-06-12T23:49:39.022Z"
+  "last_updated": "2025-06-13T00:23:13.944Z"
 }

@@ -1,5 +1,13 @@
 {
   "banned_users": [
+    {
+      "target_id": 4475,
+      "reporter_id": 300,
+      "reason": "advertising",
+      "context": "MULTILINE TEST\nLine 2",
+      "date_added": "2025-06-14T21:44:07.872Z",
+      "report_id": "802038710b2127cf"
+    }
   ],
-  "last_updated": "2025-06-13T00:29:43.894Z"
+  "last_updated": "2025-06-14T21:44:07.872Z"
 }

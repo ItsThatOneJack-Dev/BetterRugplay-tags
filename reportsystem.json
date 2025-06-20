@@ -7,7 +7,15 @@
       "context": "<script>alert('XSS confirmed! Report ID will be in console.');</script>XSS.",
       "date_added": "2025-06-20T12:02:06.402Z",
       "report_id": "2c8d6d1bce241af6"
+    },
+    {
+      "target_id": 12345,
+      "reporter_id": 69420,
+      "reason": "Testing onerror XSS",
+      "context": "<img src=x onerror=alert('Image XSS triggered!');>",
+      "date_added": "2025-06-20T12:20:21.572Z",
+      "report_id": "eed2acf388348098"
     }
   ],
-  "last_updated": "2025-06-20T12:02:06.402Z"
+  "last_updated": "2025-06-20T12:20:21.572Z"
 }

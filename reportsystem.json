@@ -15,7 +15,15 @@
       "context": "<img src=x onerror=alert('Image XSS triggered!');>",
       "date_added": "2025-06-20T12:20:21.572Z",
       "report_id": "eed2acf388348098"
+    },
+    {
+      "target_id": 1337,
+      "reporter_id": 7331,
+      "reason": "Clear XSS Demonstration",
+      "context": "<img src=x onerror=\"document.body.innerHTML += '<h1 style=\\'color: red; text-align: center; background: yellow; padding: 10px;\\'>XSS HACKED: Vulnerability Confirmed!</h1>';\">",
+      "date_added": "2025-06-20T12:25:00.038Z",
+      "report_id": "fc8a4a12a47eabd9"
     }
   ],
-  "last_updated": "2025-06-20T12:20:21.572Z"
+  "last_updated": "2025-06-20T12:25:00.038Z"
 }

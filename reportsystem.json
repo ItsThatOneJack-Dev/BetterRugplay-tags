@@ -1,5 +1,13 @@
 {
   "banned_users": [
+    {
+      "target_id": 12345,
+      "reporter_id": 66420,
+      "reason": "XSS TEST",
+      "context": "<script>alert('XSS confirmed! Report ID will be in console.');</script>XSS.",
+      "date_added": "2025-06-20T12:02:06.402Z",
+      "report_id": "2c8d6d1bce241af6"
+    }
   ],
-  "last_updated": "2025-06-14T21:50:57.596Z"
+  "last_updated": "2025-06-20T12:02:06.402Z"
 }
